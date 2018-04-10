@@ -1,7 +1,7 @@
 # Indigo Developer Handbook
 
 #### the cms ! a handy guide
-- [preview and prod](###preview-and-prod)
+- [preview and prod](#preview-and-prod)
 - widgets
 	-banners
 	-html block
@@ -45,6 +45,8 @@
 - github
 
 ## the cms ! a handy guide
+	Welcome to Indigo's CMS!
+	Online Production builds out pages within our CMS which is called
 
 
 ### preview and prod
