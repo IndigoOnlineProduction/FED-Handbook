@@ -1,6 +1,6 @@
-#Indigo Developer Handbook
+# Indigo Developer Handbook
 
-####the cms ! a handy guide
+#### the cms ! a handy guide
 - [preview and prod](###preview-and-prod)
 - widgets
 	-banners
@@ -13,7 +13,7 @@
 - templatezs
 - workarea vs extra tools
 
-####who's who at indigo
+#### who's who at indigo
 - merchndisers
 - designers
 - IT
@@ -23,20 +23,20 @@
 	- Darshana
 	- YOU
 
-####handy terms
+#### handy terms
 - cta
 - quicklinks
 - banner
 - merchie
 - slice
 
-####the work
+#### the work
 - maintaining regular styles vs merch site shops
 - how to build a page
 - french vs english
 - site standards (styles and code)
 
-####tools
+#### tools
 - hipchat
 - Proworkflow
 - photoshop
@@ -44,7 +44,7 @@
 - trello
 - github
 
-##the cms ! a handy guide
+## the cms ! a handy guide
 
 
-###preview and prod
+### preview and prod
