@@ -64,10 +64,10 @@ OP has access to a staging environment called *preview* and the live version of 
 
 `HELP` launhes the help page.
 
-###widgets
+### widgets
 Widgets are the building blocks of a page within our CMS. The following is a description of the ones you will be using most.
 
-#####banners
+##### banners
 Banners are the main way we get images on the site. Banners are designed by studio at the behest of merchandisers or elsewhere from within Indigo. There are banners that have live text and banners that have images of text. When the banner has live text it means that the merchandiser can change the text and images independantly. There are currently a few standard banners that have been set up.
 
 	.swb => Standard Width Banner. Main banner on a page.
@@ -87,6 +87,8 @@ Banners are the main way we get images on the site. Banners are designed by stud
 		.cta => A call to action that is bold text with an arrow afterwards. No box
 		.cta—button => A call to action that had a box around it and is a button.
 		.cta—special => A call to action that is third in the list of three consecutive CTAs that is highlighted differently. Generally, it is the SHOP ALL button.
+
+##### html block 
 
 ### workarea vs extra tools
 
