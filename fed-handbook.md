@@ -27,7 +27,7 @@
 - cta
 - quicklinks
 - banner
-- merchie
+- merchies
 - slice
 
 ##the work
