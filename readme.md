@@ -3,11 +3,11 @@
 #### the cms ! a handy guide
 - [preview and prod](#preview-and-prod)
 - [widgets](#widgets)
-	-[banners](#banners)
-	-[html block](#html-block)
-	-[content block](#content-block)
-	-[html bundle](#html-bundle)
-	-[product lists](#product-lists)
+	- [banners](#banners)
+	- [html block](#html-block)
+	- [content block](#content-block)
+	- [html bundle](#html-bundle)
+	- [product lists](#product-lists)
 		- [tabbed carousels](#tabbed-carousels)
 		- [list vs grid vs carousel view](#list-vs-grid-vs-carousel-view)
 - [templates](#templates)
@@ -44,6 +44,12 @@
 - [avocode](#)
 - [trello](#)
 - [github](#)
+- [Akamai](#Akamai)
+- [What’s Upload](#Whats-Upload)
+- [Adobe Test & Target](#Adobe-Test-&-Target)
+- [Jira](#Jira)
+- [Confluence](#Confluence)
+- [Endeca Lookup](#Endeca-Lookup)
 
 ## the cms ! a handy guide
 Welcome to Indigo's CMS!
@@ -77,18 +83,26 @@ Banners are the main way we get images on the site. Banners are designed by stud
 	.feat-promo => Skinny banner that goes 100% of the width of a standard layout
 	.eb => Editorial blocks. 3 across banners at the bottom of many merchandised pages.
 
-		Some classes that are used on individual banners in the field *Caption Custom Class*
-		.swb-multi-cta / .swb-one-cta => Whether CTAs will all line up and be same width or if there is one button and there will just be 30px of space on the left and right sides of the text
-		.feat-prod-centered / .feat-prod-70 / .feat-prod-heather / .feat-prod-2ctas => Denotes alternative feat-prod stylings. Can currently be viewed on Gifts page, Books dept page, Heather’s Picks, and Teen Books, respectively
-		.white => Whether text will be white
-		.gm / .books / .kids / .baby / .bargain => Denotes what department banner is used in. Will be used to do things like change all books pages underlines to a certain colour etc etc
+	Some classes that are used on individual banners in the field *Caption Custom Class*
 
-		Some classes are used on individual fields on banners
-		.cta => A call to action that is bold text with an arrow afterwards. No box
-		.cta—button => A call to action that had a box around it and is a button.
-		.cta—special => A call to action that is third in the list of three consecutive CTAs that is highlighted differently. Generally, it is the SHOP ALL button.
+	.swb-multi-cta / .swb-one-cta => Whether CTAs will all line up and be same width or if there is one button and there will just be 30px of space on the left and right sides of the text
+	.feat-prod-centered / .feat-prod-70 / .feat-prod-heather / .feat-prod-2ctas => Denotes alternative feat-prod stylings. Can currently be viewed on Gifts page, Books dept page, Heather’s Picks, and Teen Books, respectively
+	.white => Whether text will be white
+	.gm / .books / .kids / .baby / .bargain => Denotes what department banner is used in. Will be used to do things like change all books pages underlines to a certain colour etc etc
+
+	Some classes are used on individual fields on banners
+	.cta => A call to action that is bold text with an arrow afterwards. No box
+	.cta—button => A call to action that had a box around it and is a button.
+	.cta—special => A call to action that is third in the list of three consecutive CTAs that is highlighted differently. Generally, it is the SHOP ALL button.
 
 ##### html block 
+An HTML block is a widget that will accept HTML, CSS, and JS and lives and is localized only to that page. Wherever the widget is placed in the page that is the order where the code will be placed in the DOM. Wrap CSS in `<style>` tags and JS in `<scrip>` tags.
+
+##### content block
+Content block widgets are blocks of code that live on the cms and exist independantly of any page. Content blocks can be put on as many pages as you like and are generally used to repeat code or place code on a page that will be updated independatly of the page. Wrap CSS in `<style>` tags and JS in `<scrip>` tags.
+
+##### html bundles
+HTML Bundles function in almost the same way as content blocks but the HTML, CSS, and JS are seperated in the file and then minified and placed in the head of the page that they are placed on and are generally much more performant. `CMD` + `CTRL` + arrows moves you left and right between the files.
 
 ### workarea vs extra tools
 
