@@ -8,8 +8,8 @@
 	- [content block](#content-block)
 	- [html bundle](#html-bundle)
 	- [product lists](#product-lists)
+		- [carousel vs list vs grid view](#carousel-vs-list-vs-grid-view)
 		- [tabbed carousels](#tabbed-carousels)
-		- [list vs grid vs carousel view](#list-vs-grid-vs-carousel-view)
 - [templates](#templates)
 - [workarea vs extra tools](#workarea-vs-extra-tools)
 - [history](#history)
@@ -103,6 +103,13 @@ Content block widgets are blocks of code that live on the cms and exist independ
 
 ##### html bundles
 HTML Bundles function in almost the same way as content blocks but the HTML, CSS, and JS are seperated in the file and then minified and placed in the head of the page that they are placed on and are generally much more performant. `CMD` + `CTRL` + arrows moves you left and right between the files.
+
+##### product lists
+Product lists are pulled in either by a product list ID number or an Endeca ID. There are many configureable options within a product list including how many products to bring in and if they are within a range, and also what format they will display in:
+
+###### carousel vs list vs grid view
+These are the three views you can select from within the product list widget.
+Carousel will show as many products as fit widthwise in one line with arrows on either side to scroll through.
 
 ### workarea vs extra tools
 
