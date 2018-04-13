@@ -14,7 +14,7 @@
 - workarea vs extra tools
 
 ##who's who at indigo
-- merchndisers
+- merchandisers
 - designers
 - IT
 - Online Production
@@ -27,7 +27,7 @@
 - cta
 - quicklinks
 - banner
-- merchie
+- merchies
 - slice
 
 ##the work
