@@ -51,6 +51,8 @@
 - [Confluence](#Confluence)
 - [Endeca Lookup](#Endeca-Lookup)
 
+- [Floorplans](https://navigate.ourindigo.ca/getting_started/home_office_essentials.html)
+
 ## the cms ! a handy guide
 Welcome to Indigo's CMS!
 Online Production builds out pages within our CMS which is called Ektron. Ektron has a .NET backend and we have HEAVILY customized it in house. Indigo developers have been building out features for our needs for years at this point so it is kind of its own specific CMS. It has many quirks and specificities. 
