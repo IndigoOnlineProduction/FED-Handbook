@@ -15,7 +15,7 @@
 - [history](#history)
 
 #### who's who at indigo
-- [merchndisers](#)
+- [merchandisers](#merchandisers)
 - [designers](#)
 - [IT](#)
 - [Online Production](#)
@@ -113,6 +113,34 @@ Carousel will show as many products as fit widthwise in one line with arrows on 
 
 ### workarea vs extra tools
 
+### Who's Who
+
+#### merchandisers
+	- Kim Gardiner: Senior Director of Online Content	
+	- Seema Maloni: Senior Manager, Content
+	- Aney Mei: Manages home page updates and campaigns
+	- Stephanie Andrews: Merchandiser GM
+	- Stephanie Clark: Manager GM merchandising
+	- Michael Bacal: Manager of Book merchandising
+	- Michael Gallagher: Special Promotions and Deals of the Week
+	- Kaito McVey: Kids & Toys
+	- Kalyn Cherney: Coordinator - GM
+	- Josh Fehrens: Coordinator, Part time
+	- Estelle Bresson: French Merchandiser
+	
+#### designers
+	- Leanna Palmer - Creative Director
+	- Katerina Slinkina - Project manager
+	- Alisha Catellan - Project manager
+	- Tomo Kato - Manager, Digital creative - she's the go to for any UI questions
+	- Grainne McCarthy - Designer
+	- Claudia Urquieta - Designer
+	- Heidi Barett - Designer - Kids
+	- Nicole Charles - Designer
+	- Candice Lin - Designer
+	- Adam Balsam - Designer - Emails
+	- Frank Franz - UI Designer
+	- Emily Dalton - UI Designer
 
 
 
