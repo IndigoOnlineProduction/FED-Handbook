@@ -16,7 +16,7 @@
 
 #### who's who at indigo
 - [merchandisers](#merchandisers)
-- [designers](#)
+- [designers](#designers)
 - [IT](#)
 - [Online Production](#)
 	- [Preben](#)
@@ -38,11 +38,11 @@
 - [site standards (styles and code)](#)
 
 #### tools
-- [hipchat](#)
-- [Proworkflow](#)
+- [hipchat](https://indigoca.hipchat.com/chat)
+- [Proworkflow](https://proworkflow6.net/IndigoCreativeDepartment/index.cfm?fuseaction=jobs&fusesubaction=jobpage)
 - [photoshop](#)
 - [avocode](#)
-- [trello](#)
+- [trello](https://trello.com/b/rX9AmKjV/online-production-projects)
 - [github](#)
 - [Akamai](#Akamai)
 - [What’s Upload](#Whats-Upload)
